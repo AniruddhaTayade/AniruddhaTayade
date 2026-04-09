@@ -1,7 +1,7 @@
 # Hi, I'm Aniruddha Tayade 👋
 
 🎓 M.S. Computer Science @ Florida International University (GPA: 3.96)  
-📍 Miami, FL | Open to SDET / QA Automation roles  
+📍 Miami, FL | Open to SDET / QA Automation roles / Data Analyst / Software Developer 
 📧 tayadeaniruddha789@gmail.com
 
 ---
