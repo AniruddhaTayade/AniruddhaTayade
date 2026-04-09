@@ -1,7 +1,7 @@
 # Hi, I'm Aniruddha Tayade 👋
 
-🎓 M.S. Computer Science @ Florida International University (GPA: 3.96)  
-📍 Miami, FL | Open to SDET / QA Automation roles / Data Analyst / Software Developer  
+🎓 M.S. Computer Science @ Florida International University (GPA: 3.96)
+📍 Miami, FL | Open to SDET / QA Automation / Software Developer roles
 📧 tayadeaniruddha789@gmail.com
 
 ---
@@ -16,11 +16,11 @@ Previously worked at **Tata Consultancy Services** and **Artdex & Cognoscis**, w
 
 ## 🛠️ Tech Stack
 
-**Testing:** Selenium WebDriver · Tricentis TOSCA · pytest · API Testing · BDD · Regression · UAT  
-**CI/CD & Tools:** Jenkins · GitHub Actions · HP-ALM · Jira · Postman · Tableau  
-**Languages:** Python · Java · JavaScript · Dart · PHP  
-**Databases:** MySQL · Oracle SQL · Microsoft SQL Server · Google Firestore  
-**Frameworks:** React.js · Flutter · HTML5 · CSS3  
+**Testing:** Selenium WebDriver · Tricentis TOSCA · pytest · API Testing · BDD · Regression · UAT
+**CI/CD & Tools:** Jenkins · GitHub Actions · HP-ALM · Jira · Postman · Tableau
+**Languages:** Python · Java · JavaScript · Dart · PHP
+**Databases:** MySQL · Oracle SQL · Microsoft SQL Server · Google Firestore
+**Frameworks:** React.js · Flutter · HTML5 · CSS3
 
 ---
 
@@ -31,20 +31,26 @@ Previously worked at **Tata Consultancy Services** and **Artdex & Cognoscis**, w
 
 Built a production-grade **Page Object Model (POM)** framework covering 15+ test scenarios across login, inventory, and cart workflows. Integrated with GitHub Actions CI/CD for automated runs and HTML reporting on every commit.
 
-### 🔹 Cybersecurity Mental Health Chatbot
-> Flask · SQLite · Google AI · NLP
+---
 
-Secure AI chatbot with NLP sentiment analysis, session summaries, CSRF protection, input validation, and email-based 2FA.
+### 🔹 [Emotion-Aware Hybrid Recommender System](https://github.com/AniruddhaTayade/Emotion-Aware-Hybrid-Recommender)
+> Python · DistilBERT · TF-IDF · SVD · Hugging Face
+
+Fine-tuned **DistilBERT** on the GoEmotions dataset (27 emotion categories) achieving **48.7% accuracy — 77% above baseline**. Built a hybrid recommender combining TF-IDF cosine similarity and SVD collaborative filtering for personalized mental health resource recommendations.
+
+---
+
+### 🔹 [Cybersecurity Mental Health Chatbot](https://github.com/AniruddhaTayade/Mental-AI-Chatbot)
+> Flask · SQLite · Google AI · NLP · Hugging Face
+
+Secure AI chatbot with NLP sentiment analysis, session summaries, CSRF protection, input validation, secure session management, audit logging, and email-based 2FA.
+
+---
 
 ### 🔹 Real-Time Messaging App
 > Flutter · Firebase · Firestore
 
-Cross-platform messaging app with a Firestore NoSQL backend optimized for low-latency communication.
-
-### 🔹 ML Disease Prediction Chatbot
-> Python · Machine Learning
-
-ML classification models predicting probable diagnoses from user-reported symptoms via a conversational interface.
+Cross-platform messaging app with a Firestore NoSQL backend optimized for low-latency, high-concurrency communication.
 
 ---
 
@@ -65,4 +71,5 @@ ML classification models predicting probable diagnoses from user-reported sympto
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddhatayade/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniruddhaTayade)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayadeaniruddha789@gmail.com)
