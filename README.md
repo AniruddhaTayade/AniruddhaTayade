@@ -1,7 +1,9 @@
 # Hi, I'm Aniruddha Tayade 👋
 
 🎓 M.S. Computer Science @ Florida International University (GPA: 3.96)
+
 📍 Miami, FL | Open to SDET / QA Automation / Software Developer roles
+
 📧 tayadeaniruddha789@gmail.com
 
 ---
@@ -17,9 +19,13 @@ Previously worked at **Tata Consultancy Services** and **Artdex & Cognoscis**, w
 ## 🛠️ Tech Stack
 
 **Testing:** Selenium WebDriver · Tricentis TOSCA · pytest · API Testing · BDD · Regression · UAT
+
 **CI/CD & Tools:** Jenkins · GitHub Actions · HP-ALM · Jira · Postman · Tableau
+
 **Languages:** Python · Java · JavaScript · Dart · PHP
+
 **Databases:** MySQL · Oracle SQL · Microsoft SQL Server · Google Firestore
+
 **Frameworks:** React.js · Flutter · HTML5 · CSS3
 
 ---
@@ -57,6 +63,7 @@ Cross-platform messaging app with a Firestore NoSQL backend optimized for low-la
 ## 📜 Certifications
 
 - 🏆 Microsoft Certified: Azure Fundamentals **(AZ-900)**
+
 - 🏆 ISTQB Certified Tester Foundation Level **(CTFL)**
 
 ---
@@ -64,6 +71,7 @@ Cross-platform messaging app with a Firestore NoSQL backend optimized for low-la
 ## 📊 GitHub Stats
 
 ![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniruddhaTayade&show_icons=true&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaTayade&layout=compact&theme=dark&hide_border=true)
 
 ---
