@@ -11,18 +11,24 @@
 
 I'm a results-driven **SDET** with **2.5+ years** of experience building automation frameworks from scratch for a **Big 5 Canadian bank** and product teams, cutting regression cycles by **70-75%** with Selenium and TOSCA.
 
-Currently pursuing an **M.S. in Computer Science (GPA: 3.97)** at FIU while building **AI-powered QA tooling** deployed on **Azure** — rare depth across automation engineering, CI/CD, and applied AI.
+Currently pursuing an **M.S. in Computer Science (GPA: 3.97)** at FIU while building **AI-powered tools** deployed on **Azure** — rare depth across automation engineering, CI/CD, and applied AI.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Testing:** Selenium WebDriver · Tricentis TOSCA · Appium · pytest · REST/SOAP API Testing · BDD · Regression · UAT · SIT
+
 **CI/CD & Tools:** Jenkins · GitHub Actions · HP-ALM · Jira · Postman · Tableau · Git/GitHub
+
 **Languages:** Python · Java · JavaScript · Dart · PHP
+
 **Databases:** MySQL · Oracle SQL Server · Microsoft SQL Server · Google Firestore
+
 **Frameworks:** React.js · FastAPI · Flutter · HTML5 · CSS3
+
 **Cloud:** Azure Container Apps · ACI · Blob Storage · ACR · Vercel
+
 
 ---
 
