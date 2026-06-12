@@ -84,6 +84,7 @@ Cross-platform messaging app with a Firestore NoSQL backend optimized for low-la
 ---
 
 ## 📜 Certifications
+- 🏆 Microsoft Certified: Azure AI Fundamentals **(AI-900)**
 - 🏆 Microsoft Certified: Azure Fundamentals **(AZ-900)**
 - 🏆 ISTQB Certified Tester Foundation Level **(CTFL)**
 
